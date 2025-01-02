@@ -27,4 +27,4 @@ wipe: False
 form_tip: False 
 ```
  * Cut should be hanled by AFC.
-5. Setup Blobifier as normal setting the correct variables - they come Preset for my printer so becareful.  
+5. Setup Blobifier as normal setting the correct variables  in blobifier/blobifier_hw.cfg and blobifier/blobifier.cfg - they come Preset for my printer so becareful.  
